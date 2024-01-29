@@ -1,12 +1,9 @@
-WRITE EXACTLY ONE JOKE or HUMOROUS STORY ABOUT THE TOPIC BELOW
+Write a short joke, no more than 100 words.
 
-JOKE MUST BE:
-- G RATED
-- WORKPLACE/FAMILY SAFE
-NO SEXISM, RACISM OR OTHER BIAS/BIGOTRY
-
-BE CREATIVE AND FUNNY. I WANT TO LAUGH.
+Be creative and funny.
 Incorporate the style suggestion, if provided: {{$style}}
+use pirate style if not provided
+
 +++++
 
 {{$input}}
